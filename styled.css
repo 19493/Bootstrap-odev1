@@ -1,0 +1,118 @@
+body{
+    margin:0px 0px;
+    background-color:#E9ECEF;
+}
+
+.tab{
+    border: 1px solid  #36414d;
+    background-color: #36414d;
+    height: 60px;
+}
+
+.tablinks{
+  overflow: hidden;
+  border: 1px solid  #36414d;
+  background-color: #36414d;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+ 
+  font-size: 18px;
+  color:white;
+  text-decoration: none
+}
+
+.name{
+    color:#CD3333;
+    font-size:18px;
+}
+
+.jumbotron{
+    background-color: #E9ECEF;
+    text-align: center;
+    font-size:18px; 
+}
+
+.jumbotron h4{
+    color:rgb(177, 76, 46);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:48px;  
+}
+
+ul {
+    position: relative;
+    display:center;
+    list-style-position: inside;
+    text-align:center;
+    color:black;
+}
+
+ul p{
+    font-size:18px;
+    color: rgb(177, 76, 46);
+}
+
+.button{
+  background-color: #36414d;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin-left:50px;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* Hakkımızda sayfası */
+h4{
+    position:relative;
+    text-align:center;
+    font-size:36px;
+    color: rgb(177, 76, 46);
+    margin-left:10px;
+}
+
+h5{
+    color :#CD3333;
+    font-size:18px;
+    margin-left:10px;
+}
+
+.paragraph {
+    margin-left:10px;
+}
+
+ 
+
+/* Ürünlerimiz sayfası */
+
+.card{
+    width:300px;
+    height:400px;
+    background-color: white;
+    
+}
+.modeller{
+    text-align: center;
+}
+.değer{
+border: 1px solid black;
+border-radius:5px;
+width:40px;
+font-size:10px;
+background-color: black;
+color:white;
+text-align: center;
+margin-top: 30px;
+margin-left:25px;
+}
+img{
+    height:300px;
+    width:180px;
+    margin-left:60px;
+}
